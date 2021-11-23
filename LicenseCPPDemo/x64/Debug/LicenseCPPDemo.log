@@ -1,0 +1,6 @@
+﻿  LicenseCPPDemo.cpp
+E:\C++\License\LicenseCPPDemo\LicenseCPPDemo\LicenseCPPDemo.cpp(21,5): warning C4996: 'MD5_Init': Since OpenSSL 3.0
+E:\C++\License\LicenseCPPDemo\LicenseCPPDemo\LicenseCPPDemo.cpp(22,5): warning C4996: 'MD5_Update': Since OpenSSL 3.0
+E:\C++\License\LicenseCPPDemo\LicenseCPPDemo\LicenseCPPDemo.cpp(23,5): warning C4996: 'MD5_Final': Since OpenSSL 3.0
+E:\C++\License\LicenseCPPDemo\LicenseCPPDemo\LicenseCPPDemo.cpp(28,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LicenseCPPDemo.vcxproj -> E:\C++\License\LicenseCPPDemo\x64\Debug\LicenseCPPDemo.exe
